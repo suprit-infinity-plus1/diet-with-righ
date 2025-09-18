@@ -51257,3 +51257,8 @@ pre[class*="language-"] {
 .token.entity {
     cursor: help
 }
+
+
+.circle-image-style{
+    border: 5px solid #fec44a;
+}
